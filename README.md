@@ -1,5 +1,5 @@
 > <h1 align="center">Ola Bem Vindo<br><br>hobby jogar jogos multiplayer</h1>
-<h1>materiafavorita educacao fisica</h1>
+<h1>materia favorita educacao fisica</h1>
 
 ###
 
